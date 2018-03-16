@@ -1,0 +1,11 @@
+<advancedsettings>
+  <network>
+    <buffermode>1</buffermode>
+    <alwaysforcebuffer>1</alwaysforcebuffer>
+    <cachemembuffersize>52428800</cachemembuffersize>
+    <readbufferfactor>10</readbufferfactor>
+  </network>
+  <videolibrary>
+    <hideallitems>true</hideallitems>  <!-- removes the "*All" items from the video library -->
+  </videolibrary>
+</advancedsettings>
