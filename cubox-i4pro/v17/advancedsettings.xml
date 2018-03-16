@@ -1,0 +1,19 @@
+<advancedsettings>
+
+  <samba>
+    <clienttimeout>20</clienttimeout>
+  </samba>
+
+  <cache>
+    <buffermode>1</buffermode>
+    <memorysize>209715200</memorysize>
+    <readfactor>20</readfactor>
+  </cache>
+
+  <video>
+    <playcountminimumpercent>80</playcountminimumpercent>
+  </video>
+
+  <splash>false</splash>
+
+</advancedsettings> 

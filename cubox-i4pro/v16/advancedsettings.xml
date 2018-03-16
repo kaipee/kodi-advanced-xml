@@ -1,0 +1,19 @@
+<advancedsettings>
+  <useddsfanart>false</useddsfanart>
+  <samba>
+    <clienttimeout>20</clienttimeout>
+  </samba>
+  <network>
+    <buffermode>1</buffermode>
+    <alwaysforcebuffer>1</alwaysforcebuffer>
+    <cachemembuffersize>209715200</cachemembuffersize>
+    <readbufferfactor>10</readbufferfactor>
+  </network>
+  <videolibrary>
+    <hideallitems>true</hideallitems>  <!-- removes the "*All" items from the video library -->
+  </videolibrary>
+  <video>
+    <playcountminimumpercent>80</playcountminimumpercent>
+  </video>
+  <splash>false</splash>
+</advancedsettings> 
