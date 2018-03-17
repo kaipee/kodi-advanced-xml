@@ -6,7 +6,7 @@
 
   <cache>
     <buffermode>1</buffermode>
-    <memorysize>209715200</memorysize>
+    <memorysize>419430400</memorysize>
     <readfactor>20</readfactor>
   </cache>
 
